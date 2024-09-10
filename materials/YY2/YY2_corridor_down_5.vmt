@@ -1,0 +1,10 @@
+"Lightmappedgeneric"
+{
+      "$basetexture" "YY2/YY2_corridor_down_5"
+      "$surfaceprop" "Brick"
+"$bumpmap" "YY2/YY2_corridor_down_5_nrm" 
+"$envmap" "env_cubemap" 
+"$normalmapalphaenvmapmask" 1 
+"$envmapcontrast" 1 
+"$envmapsaturation" 1 
+}

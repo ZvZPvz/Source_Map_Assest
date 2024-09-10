@@ -1,0 +1,11 @@
+"vertexlitgeneric" 
+{ 
+"$basetexture" "vtftest/plastic01_color" 
+"$surfaceprop" "tile" 
+"$bumpmap" "vtftest/plastic01_color_normal" 
+"$envmap" "env_cubemap" 
+"$normalmapalphaenvmapmask" 1 
+"$envmapcontrast" 1 
+"$envmapsaturation" 1 
+"%keywords" "plastic01_color_normal" 
+}

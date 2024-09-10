@@ -1,0 +1,6 @@
+"Lightmappedgeneric"
+{
+      "$basetexture" "YY2/brick_floor_02_diff_2k"
+      "$surfaceprop" "Brick"
+	  "$bumpmap" "YY2/brick_floor_02_nor_gl_2k"
+}

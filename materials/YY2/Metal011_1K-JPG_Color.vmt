@@ -1,0 +1,10 @@
+"Lightmappedgeneric"
+{
+      "$basetexture" "YY2/Metal011_1K-JPG_Color"
+      "$surfaceprop" "Metal"
+	  "$bumpmap" "YY2/Metal011_1K-JPG_NormalDX"
+	  "$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask" 1 
+"$envmapcontrast" 1 
+"$envmapsaturation" 1 
+}

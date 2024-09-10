@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "YY2/power_save"
+	"$envmap" "env_cubemap"
+}

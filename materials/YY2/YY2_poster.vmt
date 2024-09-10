@@ -1,0 +1,1 @@
+"UnlitGeneric"{	"$basetexture" "YY2/YY2_poster"               "$surfaceprop" "glass"               "$envmap" "env_cubemap"	"Proxies"	{		"AnimatedTexture"		{			"animatedtexturevar" "$basetexture"			"animatedtextureframenumvar" "$frame"			"animatedtextureframerate"0.1“		}	}}

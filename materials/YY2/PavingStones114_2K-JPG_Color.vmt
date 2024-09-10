@@ -1,0 +1,6 @@
+"Lightmappedgeneric"
+{
+      "$basetexture" "YY2/PavingStones114_2K-JPG_Color"
+      "$surfaceprop" "Brick"
+	  "$bumpmap" "YY2/PavingStones114_2K-JPG_NormalDX"
+}

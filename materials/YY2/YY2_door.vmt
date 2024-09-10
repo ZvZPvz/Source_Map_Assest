@@ -1,0 +1,6 @@
+"Lightmappedgeneric"
+{
+      "$basetexture" "YY2/YY2_door"
+      "$surfaceprop" "wood"
+      "$translucent" "1"
+}

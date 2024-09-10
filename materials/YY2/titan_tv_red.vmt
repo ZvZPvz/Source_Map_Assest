@@ -1,0 +1,9 @@
+"Lightmappedgeneric"
+{
+      "$basetexture" "YY2/titan_tv_red"
+      "$surfaceprop" "Glass"
+      "$envmap" "env_cubemap"
+"$normalmapalphaenvmapmask" 1 
+"$envmapcontrast" 1 
+"$envmapsaturation" 1 
+}

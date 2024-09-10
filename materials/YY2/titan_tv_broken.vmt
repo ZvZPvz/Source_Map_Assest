@@ -1,0 +1,10 @@
+"Lightmappedgeneric"
+{
+      "$basetexture" "YY2/titan_tv_broken"
+      "$surfaceprop" "Glass"
+      "$envmap" "env_cubemap"
+	  "$selfillum" 1
+"$normalmapalphaenvmapmask" 1 
+"$envmapcontrast" 1 
+"$envmapsaturation" 1 
+}
