@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ba/wood_top3"
+	"$surfaceprop" "Wood"
+}
