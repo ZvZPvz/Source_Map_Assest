@@ -1,0 +1,11 @@
+"LightmappedGeneric" 
+{ 
+"$baseTexture" "vtftest/Plastic01_Color" 
+"$surfaceprop" "tile" 
+"$bumpmap" "vtftest/Plastic01_Color_normal" 
+"$envmap" "env_cubemap" 
+"$normalmapalphaenvmapmask" 1 
+"$envmapcontrast" 1 
+"$envmapsaturation" 1 
+"%keywords" "Plastic01_Color_normal" 
+}

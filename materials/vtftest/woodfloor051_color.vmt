@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "vtftest/woodfloor051_color"
+	"$bumpmap" "vtftest/woodfloor051_color_normal"
+}

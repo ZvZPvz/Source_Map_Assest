@@ -1,0 +1,19 @@
+"Lightmappedgeneric"
+{
+      "$basetexture" "vtftest/eye"
+      "$translucent" "1"
+	"Proxies"
+	{
+
+
+
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate"4“
+
+		}
+
+	}
+}

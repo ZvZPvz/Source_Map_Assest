@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "vtftest/Marble016_Color"
+	"$bumpmap" "vtftest/Marble016_Color_normal"
+}

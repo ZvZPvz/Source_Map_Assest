@@ -1,0 +1,11 @@
+"LightmappedGeneric" 
+{ 
+"$baseTexture" "vtftest/PAVINGSTONES_COLOR" 
+"$surfaceprop" "tile" 
+"$bumpmap" "vtftest/PAVINGSTONES_COLOR_normal" 
+"$envmap" "env_cubemap" 
+"$normalmapalphaenvmapmask" 1 
+"$envmapcontrast" 1 
+"$envmapsaturation" 1 
+"%keywords" "PAVINGSTONES_COLOR_normal" 
+}

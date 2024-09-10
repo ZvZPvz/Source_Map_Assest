@@ -1,0 +1,9 @@
+"Lightmappedgeneric"
+{
+      "$basetexture" "vtftest/ame_broken"
+      "$surfaceprop" "Glass"
+	  "$bumpmap" "vtftest/ame_broken_nrm"
+"$normalmapalphaenvmapmask" 1 
+"$envmapcontrast" 1 
+"$envmapsaturation" 1 
+}

@@ -1,0 +1,23 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vtftest/ame"
+				   	"$bumpmap" "vtftest/ame_normal"
+               "$surfaceprop" "glass"
+"$envmap" "env_cubemap" 
+"$envmapcontrast" 1 
+"$envmapsaturation" 1 
+	"Proxies"
+	{
+
+
+
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 30
+
+		}
+
+	}
+}

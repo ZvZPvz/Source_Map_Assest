@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "vtftest/tiles107_color"
+	"$bumpmap" "vtftest/tiles107_color_normal"
+}
