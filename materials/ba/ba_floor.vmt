@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "ba/ba_floor"
+	"$normalmap" "ba/ba_floor_normal"
+	"$bumpmap" "ba/ba_floor_dudv"
+	"$selfillum" 1
+	"$refracttexture" "_rt_WaterRefraction"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.1 0.1 0.1]"
+    "$surfaceprop" "Brick"
+}
