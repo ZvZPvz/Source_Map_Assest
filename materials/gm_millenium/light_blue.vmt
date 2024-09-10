@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_millenium/light_blue"
+	"$selfillum" 1
+	"$surfaceprop" "glass"
+	"$reflectivity" "[0 0 0]"
+	"$nodecal" "1"
+}

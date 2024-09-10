@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_millenium/white"
+    "$surfaceprop" "Metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.1 0.1 0.1]"
+}

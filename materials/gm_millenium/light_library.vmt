@@ -1,0 +1,21 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_millenium/light_library"
+    "$surfaceprop" "glass"
+    "$envmap" "env_cubemap"
+	"$alphatest" 1
+	"Proxies"
+	{
+
+
+
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 6 
+
+		}
+
+	}
+}

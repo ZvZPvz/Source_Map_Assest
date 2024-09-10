@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_millenium/Millennium_logo"
+	"$bumpmap" "gm_millenium/Millennium_logo_normal"
+	"$selfillum" 1
+}

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_millenium/Marble012_2K-PNG_Color"
+	"$bumpmap" "gm_millenium/Marble012_2K-PNG_NormalDX"
+	"$surfaceprop" "Tile"
+}

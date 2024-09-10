@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_millenium/Road007_2K-JPG_Color"
+	"$bumpmap" "gm_millenium/Road007_2K-JPG_NormalDX"
+	"$surfaceprop" "Concrete"
+}
