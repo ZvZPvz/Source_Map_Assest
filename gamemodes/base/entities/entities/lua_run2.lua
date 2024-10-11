@@ -1,4 +1,5 @@
-
+--[[ FUNK YOU https://steamcommunity.com/sharedfiles/filedetails/?id=903644203 !!!
+No more rules in SP??? You called this no more rules????? You just funking disable the ALL lua function in ALL maps, How dare you?!?! If you don't want lua , pls play hl2, gmod is powered by lua, thank you ]]--
 -- A spawnflag constant for addons
 SF_LUA_RUN_ON_SPAWN = 1
 
