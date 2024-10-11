@@ -3,4 +3,5 @@
 	"$basetexture" "gm_millenium/MetalPlates004_2K-PNG_Color"
 	"$bumpmap" "gm_millenium/MetalPlates004_2K-PNG_NormalDX"
 	"$surfaceprop" "Metal"
+	"$envmaptint" "[0.3 0.3 0.3]"
 }

@@ -3,4 +3,5 @@
 	"$basetexture" "gm_millenium/Plastic013A_2K-JPG_Color"
 	"$bumpmap" "gm_millenium/Plastic013A_2K-JPG_NormalDX"
 	"$surfaceprop" "Plastic_barrel"
+	"$envmaptint" "[0.1 0.1 0.1]"
 }

@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_millenium/wallpaper001A_color"
+	"$bumpmap" "gm_millenium/wallpaper001A_normal"
+	"$surfaceprop" "plaster"
+}
