@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gm_millenium/Pillow_millenium"
+	"$surfaceprop" "stone"
+	//"$nocull" "1"
+	"$bumpmap"	"models/gm_millenium/Pillow_millenium_normal"
+	"$phong" "1"
+	"$phongboost" ".02"
+	"$phongexponent" "250"
+}

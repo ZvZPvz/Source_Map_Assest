@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/gm_millenium/ba_sky_halo"
+	"$translucent" 1
+}
