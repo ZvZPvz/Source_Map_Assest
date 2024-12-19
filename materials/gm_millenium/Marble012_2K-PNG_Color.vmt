@@ -3,4 +3,6 @@
 	"$basetexture" "gm_millenium/Marble012_2K-PNG_Color"
 	"$bumpmap" "gm_millenium/Marble012_2K-PNG_NormalDX"
 	"$surfaceprop" "Tile"
+	"$envmap"		"env_cubemap"
+	"$envmaptint"	"[0.1 0.1 0.1]"
 }

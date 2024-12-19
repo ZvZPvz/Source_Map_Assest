@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_millenium/Tiles028_2K-PNG_Color"
+	"$bumpmap" "gm_millenium/Tiles028_2K-PNG_NormalDX"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.2 0.2 0.2]"
+	"$surfaceprop" "Tile"
+}

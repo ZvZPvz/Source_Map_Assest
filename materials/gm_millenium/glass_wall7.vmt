@@ -1,4 +1,5 @@
 "LightmappedGeneric"
 {
 	"$basetexture" "gm_millenium/glass_wall7"
+	"$surfaceprop" "glass"
 }

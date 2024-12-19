@@ -1,6 +1,7 @@
 "LightmappedGeneric"
 {
 	"$basetexture" "gm_millenium/glass_wall9"
+	"$translucent" 1
 	"$envmaptint" "[0.3 0.3 0.7]"
 	"$envmap" "env_cubemap"
 	"$surfaceprop" "glass"

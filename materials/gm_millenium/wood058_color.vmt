@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_millenium/wood058_color"
+	"$bumpmap" "gm_millenium/wood058_color_normal"
+	"$envmap"		"env_cubemap"
+	"$envmaptint"	"[0.1 0.1 0.1]"
+}

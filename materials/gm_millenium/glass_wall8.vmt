@@ -2,4 +2,5 @@
 {
 	"$basetexture" "gm_millenium/glass_wall8"
 	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
 }

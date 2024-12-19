@@ -2,4 +2,6 @@
 {
 	"$basetexture" "gm_millenium/Plastic018A_2K-PNG_Color"
 	"$bumpmap" "gm_millenium/Plastic018A_2K-PNG_NormalDX"
+	"$envmap"		"env_cubemap"
+	"$envmaptint"	"[0.1 0.1 0.1]"
 }

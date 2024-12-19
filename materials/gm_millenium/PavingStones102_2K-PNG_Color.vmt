@@ -3,4 +3,6 @@
 	"$basetexture" "gm_millenium/PavingStones102_2K-PNG_Color"
 	"$bumpmap" "gm_millenium/PavingStones102_2K-PNG_NormalDX"
 	"$surfaceprop" "Brick"
+	"$envmap"		"env_cubemap"
+	"$envmaptint"	"[0.01 0.01 0.01]"
 }

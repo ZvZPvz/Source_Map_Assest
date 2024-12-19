@@ -2,4 +2,5 @@
 {
 	"$basetexture" "gm_millenium/baa"
 	"$surfaceprop" "glass"
+	"$selfillum" 1
 }

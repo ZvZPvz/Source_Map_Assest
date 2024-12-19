@@ -3,4 +3,6 @@
 	"$basetexture" "gm_millenium/wallpaper001A_color"
 	"$bumpmap" "gm_millenium/wallpaper001A_normal"
 	"$surfaceprop" "plaster"
+	"$envmap"		"env_cubemap"
+	"$envmaptint"	"[0.1 0.1 0.1]"
 }
