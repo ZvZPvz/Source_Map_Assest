@@ -1,6 +1,5 @@
 $modelname "gm_millenium/reservoir_01"
 $staticprop
-$casttextureshadows
 $origin 0 0 0 -90
 $model mesh "reservoir_01.smd"
 $surfaceprop "glass"
