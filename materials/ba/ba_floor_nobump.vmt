@@ -2,7 +2,7 @@
 {
 	"$basetexture" "ba/ba_floor"
 //	"$normalmap" "ba/ba_floor_normal"
-	"$bumpmap" "ba/ba_floor_normal"
+//	"$bumpmap" "ba/ba_floor_normal"
 	"$selfillum" 1
 	"$refracttexture" "_rt_WaterRefraction"
 	"$envmap" "env_cubemap"
